@@ -79,3 +79,8 @@ The model has been trained on a subset of images and is capable of generating ca
 
 ## 🌐 Deployment
 This project uses Flask for deployment, allowing you to serve the model via a web interface.
+
+
+- by [github.com/Sanjit1806](https://github.com/Sanjit1806)
+- based from [github.com/pritishmishra703](https://github.com/pritishmishra703)
+- dataset from [github.com/adityajn105](https://github.com/adityajn105)
