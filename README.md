@@ -1,8 +1,8 @@
-# 🖼️ Image Captioning with Transformer
+# 🖼️ Image Caption Generator 
 
-<img src="frontend_img.png" alt="Frontend Image" width="400"/>
+<img src="Frontend_Image.png" alt="Frontend Image" width="500"/>
 
-This project implements an Image Captioning model using a Transformer-based approach. The model is trained to generate descriptive captions for images, leveraging advanced deep learning techniques.
+Implements an Image Captioning model using a Transformer-based approach. The model is trained to generate descriptive captions for images, leveraging advanced deep learning techniques.
 
 ## 📁 Project Structure
 
